@@ -1,16 +1,28 @@
-### Hi there 👋
+# 18O4#4350
 
-<!--
-**18O4/18O4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I am 18O4, I am a Python enjoyer who creates discord bots.
 
-Here are some ideas to get you started:
+My goal is to learn and improve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working on a discord bot and [my website](https://minioof.github.io) *(Please keep in mind that the website is a work in progress)*
+
+<b>My Socials(?):</b>
+
+Discord: 18O4#4350
+
+Minecraft IGN: 18O4
+
+<b>My Hobbies;</b>
+
+I am pretty decent in Python. I also play games.
+
+<b>My Friends;</b>
+[cosmic](https://github.com/cosmic-vfx), [xaateh](https://github.com/xaateh)
+
+<b>Languages that I know;</b>
+| Language  | Knowledge  |
+|-----------|------------|
+|  Python   |  Decent    |
+|  HTML     |  Bad       |
+|  CSS      |  Trash     |
+|-----------|------------|
