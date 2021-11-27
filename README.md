@@ -24,5 +24,3 @@ I am pretty decent in Python. I also play games.
 |-----------|------------|
 |  Python   |  Decent    |
 |  HTML     |  Bad       |
-|  CSS      |  Trash     |
-|-----------|------------|
