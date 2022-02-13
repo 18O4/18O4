@@ -22,6 +22,6 @@ I am pretty decent in Python. I also play games.
 <b>Languages that I know:</b>
 | Language  | Knowledge  |
 |-----------|------------|
-|  Python   |   Decent   |
-|   Java    |  Begginer  |
-|   HTML    |  Not Bad   |
+|  Python   |    good    |
+|   Java    |    noob    |
+|   HTML    |     ok     |
