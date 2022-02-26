@@ -17,7 +17,7 @@ Minecraft IGN: 18O4
 I am pretty decent in Python. I also play games.
 
 <b>My Friends;</b>
-[cosmic](https://github.com/cosmic-vfx), [xaateh](https://github.com/xaateh)
+[xaateh](https://github.com/xaateh)
 
 <b>Languages that I know:</b>
 | Language  | Knowledge  |
