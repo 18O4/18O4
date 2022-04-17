@@ -1,13 +1,13 @@
 # 18O4#4350
 
-![18o4 stats](https://github-readme-stats.vercel.app/api?username=18o4&icon_color=FFDF00&hide_border=true&border_radius=12&bg_color=141414&title_color=ff7700&text_color=009CFF&show_icons=true)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18o4&layout=compact&hide_border=true&border_radius=12&bg_color=141414&title_color=ff7700&text_color=009CFF)
+<div align="center"> 
+  <h1>hello im 18o4 <br>i play games and code <br>in many languages</h1>
 
-
-Hello I'm 18O4. I play games and code.
-
+  ![img](https://github-readme-stats.vercel.app/api?username=18o4&show_icons=true&icon_color=FFDF00&hide_border=true&border_radius=12&bg_color=141414&title_color=ff7700&text_color=009CFF&show_icons=true) <br>
+  ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=18o4&layout=compact&hide_border=true&border_radius=12&bg_color=141414&title_color=ff7700&text_color=009CFF)
+  
 I have [a website](https://18o4.github.io) *(it's work in progress)*
-
+  
 Discord: 18O4#4350
 
 Minecraft IGN: 18O4
