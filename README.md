@@ -18,4 +18,4 @@ Minecraft IGN: 18O4
 |  Python   |    good    |
 |   Java    |    noob    |
 |   HTML    |     ok     |
-|JavaScript |    noob    |
+|JavaScript |     ok     |
