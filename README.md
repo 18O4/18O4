@@ -4,7 +4,7 @@
   
 <h2>ABOUT ME</h2>
   
-### I'm 18O4, an amateur developer. That's it.
+### I'm 18O4, an experienced developer. I mostly use Python and JavaScript, currently learning Java.
 ---
 
 <h2>GITHUB STATS</h2>
