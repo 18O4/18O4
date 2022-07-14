@@ -4,7 +4,7 @@
   
 <h2>ABOUT ME</h2>
   
-### I'm 18O4, an amateur developer with <br>a desire to make a living off of coding
+### I'm 18O4, an amateur developer. That's it.
 ---
 
 <h2>GITHUB STATS</h2>
