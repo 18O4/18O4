@@ -4,7 +4,7 @@
   
 <h2>ABOUT ME</h2>
   
-### I'm 18O4, an experienced developer. I mostly use Python <br>and JavaScript, currently learning Java.
+### I'm 18O4, an experienced developer. I mostly use Python <br>and JavaScript, currently learning Java. I am a npc developed in poland
 ---
 
 <h2>GITHUB STATS</h2>
