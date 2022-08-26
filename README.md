@@ -1,7 +1,7 @@
 <div align="center"> 
-  <h1>***** "18O4" *********</h1>
-<a target="_blank" href="https://github.com/18o4"><img src="https://komarev.com/ghpvc/?username=18o4&color=blue" alt="18O4's Total Profile Views" width="120" /></a>&nbsp;&nbsp;
-  
+  <h1>18O4</h1>
+<a target="_blank" href="https://github.com/18o4"><img src="https://komarev.com/ghpvc/?username=18o4&color=blue" alt="18O4's Total Profile Views" width="120" /></a>
+	  
 <h2>ABOUT ME</h2>
   
 ### I'm 18O4, an experienced developer. I mostly use Python <br>and JavaScript, currently learning Java.
