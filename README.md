@@ -4,7 +4,7 @@
 	  
 <h2>ABOUT ME</h2>
   
-### I'm 18O4, an experienced developer. I mostly use Python <br>and JavaScript, currently learning Java.
+### I'm 18O4, <br>I mostly code in Python and JavaScript.
 ---
 
 <h2>STATS</h2>
