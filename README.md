@@ -25,13 +25,3 @@
 	 <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%23.svg"></code>
 	 <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg"></code>
 </p>
-
----
-
-<h2 align="center"> REACH ME ON</h2>
-
-<p align="center">
-  <a href="https://discord.gg/cJaZY4meMA"><img src="https://img.shields.io/discord/943150957393477632?label=My%20Discord%20Server" /></a>
-</p>
-
----
