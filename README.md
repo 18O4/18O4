@@ -12,9 +12,6 @@
 ![img](https://github-readme-stats.zohan.tech/api/wakatime?username=18O4&hide_border=true&border_radius=12&text_color=009CFF&title_color=ff7700&bg_color=141414&icon_color=FFDF00&show_icons=true&custom_title=Weekly%20Coding%20Stats)
 ![img](https://github-readme-stats.zohan.tech/api?username=18o4&icon_color=FFDF00&hide_border=true&border_radius=12&bg_color=141414&title_color=ff7700&text_color=009CFF&show_icons=true) <br>
 ### ![img](https://github-readme-stats.zohan.tech/api/top-langs/?username=18o4&layout=compact&hide_border=true&border_radius=12&bg_color=141414&title_color=ff7700&text_color=009CFF)
----
-
-<h2> LANGUAGES I KNOW </h2>
 
 <p>
 	 <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg"></code>
