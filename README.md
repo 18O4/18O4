@@ -5,4 +5,3 @@
 <h2>STATS</h2>
   
 ![img](https://github-readme-stats.zohan.tech/api/wakatime?username=18O4&hide_border=true&border_radius=12&text_color=009CFF&title_color=ff7700&bg_color=141414&icon_color=FFDF00&show_icons=true&custom_title=Weekly%20Coding%20Stats)
-### ![img](https://github-readme-stats.zohan.tech/api/top-langs/?username=18o4&layout=compact&hide_border=true&border_radius=12&bg_color=141414&title_color=ff7700&text_color=009CFF)
