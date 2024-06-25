@@ -4,4 +4,4 @@
 
 <h2>STATS</h2>
   
-![img](https://github-readme-stats.vercel.app/api/wakatime?username=18o4&api_domain=wakapi.18o4.xyz&hide_border=true&border_radius=12&text_color=009CFF&title_color=ff7700&bg_color=14141400&icon_color=FFDF00&show_icons=true&custom_title=Monthly%20Coding%20Stats&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=18o4&api_domain=wakapi.18o4.xyz&hide_border=true&border_radius=12&text_color=009CFF&title_color=ff7701&bg_color=14141400&icon_color=FFDF00&show_icons=true&custom_title=Monthly%20Coding%20Stats&layout=compact" />
